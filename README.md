@@ -127,24 +127,35 @@ The generated response is compared semantically against retrieved evidence. A lo
 ## References
 1.C. Bura, P. K. Myakala, and A. K. Jonnalgadda, “Ethical Prompt Engineering: Addressing Bias, Transparency, and Fairness,”
 International Journal of Research and Analytical Reviews (IJRAR), vol. 12, no. 1, pp. 145–152, 2025.
+
 2. C. Shah, “From Prompt Engineering to Prompt Science With Human in the Loop,” Communications of the ACM, 2024.
+
 3. J. White, Q. Fu, S. Hays, M. Sandborn, C. Olea, H. Gilbert, A. Elnashar, J. Spencer-Smith, and D. C. Schmidt, “A Prompt Pattern
 Catalog to Enhance Prompt Engineering with ChatGPT,” arXiv preprint arXiv:2302.11382, 2023.
+
 4. D. Lamba, “The Role of Prompt Engineering in Improving Language Understanding and Generation,” International Journal for
 Multidisciplinary Research, vol. 6, no. 6, 2024.
+
 5. P. Liu, W. Yuan, J. Fu, Z. Jiang, H. Hayashi, and G. Neubig, “Pre-train, Prompt, and Predict: A Systematic Survey of Prompting
 Methods in Natural Language Processing,” ACM Computing Surveys, vol. 56, no. 7, 2023.
+
 6. G. Jiang, Z. Ma, L. Zhang, and J. Chen, “Prompt Engineering to Inform Large Language Model in Automated Building Energy
 Modeling,” 2024.
+
 7. P. Lewis et al., “Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks,” in Advances in Neural Information Processing
 Systems, vol. 33, pp. 9459–9474, 2020.
+
 8. T. Davidson, D. Warmsley, M. Macy, and I. Weber, “Automated Hate Speech Detection and the Problem of Offensive Language,” in
 Proceedings of the 11th International AAAI Conference on Web and Social Media, 2017.
+
 9. Qwen Team, “Qwen2.5 Technical Report,” Alibaba Cloud, 2024.
+
 10. Hugging Face, “Transformers Documentation.”
 Available: https://huggingface.co/docs/transformers
+
 11. Hugging Face, “Hate Speech Offensive Language Dataset.”
 Available: https://huggingface.co/datasets/tdavidson/hate_speech_offensive
+
 12. IBM, “Retrieval-Augmented Generation (RAG).”
 Available: https://www.ibm.com/think/topics/retrieval-augmented-generation
 
