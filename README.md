@@ -125,6 +125,7 @@ The generated response is compared semantically against retrieved evidence. A lo
 - Deployment as an API or interactive application
   
 ## References
+
 1.C. Bura, P. K. Myakala, and A. K. Jonnalgadda, “Ethical Prompt Engineering: Addressing Bias, Transparency, and Fairness,”
 International Journal of Research and Analytical Reviews (IJRAR), vol. 12, no. 1, pp. 145–152, 2025.
 
@@ -161,5 +162,6 @@ Available: https://www.ibm.com/think/topics/retrieval-augmented-generation
 
 ## Author
 Soumili Mukherjee
-A.K. Choudhury School of Information Technology 
-University of Calcutta
+
+( A.K. Choudhury School of Information Technology ,
+University of Calcutta )
