@@ -159,9 +159,3 @@ Available: https://huggingface.co/datasets/tdavidson/hate_speech_offensive
 
 12. IBM, “Retrieval-Augmented Generation (RAG).”
 Available: https://www.ibm.com/think/topics/retrieval-augmented-generation
-
-## Author
-Soumili Mukherjee
-
-( A.K. Choudhury School of Information Technology ,
-University of Calcutta )
