@@ -126,7 +126,7 @@ The generated response is compared semantically against retrieved evidence. A lo
   
 ## References
 
-1.C. Bura, P. K. Myakala, and A. K. Jonnalgadda, “Ethical Prompt Engineering: Addressing Bias, Transparency, and Fairness,”
+1. C. Bura, P. K. Myakala, and A. K. Jonnalgadda, “Ethical Prompt Engineering: Addressing Bias, Transparency, and Fairness,”
 International Journal of Research and Analytical Reviews (IJRAR), vol. 12, no. 1, pp. 145–152, 2025.
 
 2. C. Shah, “From Prompt Engineering to Prompt Science With Human in the Loop,” Communications of the ACM, 2024.
