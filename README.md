@@ -128,7 +128,6 @@ The generated response is compared semantically against retrieved evidence. A lo
 
 
 # Author
-Soumili Mukherjee
-AKCSIT 
-University of Calcutta
-10.07.2026
+**Soumili Mukherjee**
+[AKCSIT , University of Calcutta]
+(10.07.2026)
